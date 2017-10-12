@@ -1,1 +1,1 @@
-password=
+password=vladik1
